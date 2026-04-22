@@ -48,16 +48,17 @@ Sistema desktop para farmacia com Java Swing, SQLite, PDV, estoque, XML, relator
 ## Ordem recomendada para publicar
 
 1. Subir o codigo com README atualizado
-2. Confirmar que imagens e video estao no repositorio
-3. Adicionar descricao curta no GitHub
-4. Publicar post no LinkedIn com o video
-5. Inserir o projeto no curriculo e portfolio pessoal
+2. Confirmar que imagens estao no repositorio
+3. Publicar o video por fora, como GitHub Release, Google Drive, YouTube nao listado ou LinkedIn
+4. Adicionar descricao curta no GitHub
+5. Publicar post no LinkedIn com o video
+6. Inserir o projeto no curriculo e portfolio pessoal
 
 ## Checklist final
 
 - README com banner
 - galeria de telas
-- video demo anexado
+- video demo publicado fora do Git quando o arquivo for pesado
 - descricao curta do projeto
 - texto para LinkedIn
 - roteiro de apresentacao

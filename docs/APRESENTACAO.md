@@ -95,9 +95,7 @@ Fale:
 
 ## Video completo
 
-Se quiser apresentar o projeto sem abrir o sistema ao vivo, use o arquivo:
-
-- `docs/demo/farmasys-pro-demo-completa.mp4`
+Se quiser apresentar o projeto sem abrir o sistema ao vivo, use a gravacao completa da demonstracao.
 
 Ele pode ser usado como:
 

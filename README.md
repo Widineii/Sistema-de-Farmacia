@@ -51,9 +51,12 @@ Sistema desktop para operacao de farmacia, desenvolvido em Java Swing com SQLite
 
 ## Demonstracao em video
 
-O projeto tambem possui uma demonstracao gravada da operacao completa:
+O projeto possui uma demonstracao completa em video, recomendada para:
 
-- [Video demo completo](docs/demo/farmasys-pro-demo-completa.mp4)
+- portfolio pessoal
+- post no LinkedIn
+- anexo em GitHub Releases
+- apresentacao em entrevista
 
 Sugestao de uso do video:
 
@@ -251,7 +254,6 @@ Os materiais de apoio para apresentar o projeto estao em:
 - [Textos para LinkedIn e curriculo](docs/LINKEDIN_E_CV.md)
 - [Roteiro de apresentacao](docs/APRESENTACAO.md)
 - [Guia de publicacao](docs/PUBLICACAO.md)
-- [Video demo completo](docs/demo/farmasys-pro-demo-completa.mp4)
 
 ## Melhorias futuras
 

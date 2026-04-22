@@ -6,6 +6,7 @@ target/
 out/
 *.db
 *.log
+docs/demo/*.mp4
 
 ### IntelliJ IDEA ###
 .idea/

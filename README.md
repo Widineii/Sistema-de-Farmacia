@@ -258,7 +258,7 @@ Os materiais de apoio para apresentar o projeto estao em:
 - [Textos para LinkedIn e curriculo](docs/LINKEDIN_E_CV.md)
 - [Roteiro de apresentacao](docs/APRESENTACAO.md)
 - [Guia de publicacao](docs/PUBLICACAO.md)
-- [Demo no Google Drive](https://drive.google.com/drive/folders/1aswfpxs0vLELtJH_ElSkmd0-CFVXBOnr?usp=drive_link)
+- [Demo no Google Drive](https://drive.google.com/drive/folders/1aswfpxs0vLELtJH_ElSkmd0-CFVXBOnr?usp=sharing)
 
 ## Melhorias futuras
 

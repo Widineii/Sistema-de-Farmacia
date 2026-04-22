@@ -33,7 +33,7 @@ Foi um projeto importante para consolidar regras de negocio, organizacao de inte
 
 Link da demonstracao:
 
-- [Google Drive](https://drive.google.com/drive/folders/1aswfpxs0vLELtJH_ElSkmd0-CFVXBOnr?usp=drive_link)
+- [Google Drive](https://drive.google.com/drive/folders/1aswfpxs0vLELtJH_ElSkmd0-CFVXBOnr?usp=sharing)
 
 ## Texto curto para LinkedIn
 

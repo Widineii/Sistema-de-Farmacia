@@ -99,7 +99,7 @@ Se quiser apresentar o projeto sem abrir o sistema ao vivo, use a gravacao compl
 
 Link:
 
-- [Google Drive da demonstracao](https://drive.google.com/drive/folders/1aswfpxs0vLELtJH_ElSkmd0-CFVXBOnr?usp=drive_link)
+- [Google Drive da demonstracao](https://drive.google.com/drive/folders/1aswfpxs0vLELtJH_ElSkmd0-CFVXBOnr?usp=sharing)
 
 Ele pode ser usado como:
 

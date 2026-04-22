@@ -58,6 +58,10 @@ O projeto possui uma demonstracao completa em video, recomendada para:
 - anexo em GitHub Releases
 - apresentacao em entrevista
 
+Link da demonstracao:
+
+- [Video e materiais no Google Drive](https://drive.google.com/drive/folders/1aswfpxs0vLELtJH_ElSkmd0-CFVXBOnr?usp=drive_link)
+
 Sugestao de uso do video:
 
 - publicar junto com o repositrio no GitHub
@@ -254,6 +258,7 @@ Os materiais de apoio para apresentar o projeto estao em:
 - [Textos para LinkedIn e curriculo](docs/LINKEDIN_E_CV.md)
 - [Roteiro de apresentacao](docs/APRESENTACAO.md)
 - [Guia de publicacao](docs/PUBLICACAO.md)
+- [Demo no Google Drive](https://drive.google.com/drive/folders/1aswfpxs0vLELtJH_ElSkmd0-CFVXBOnr?usp=drive_link)
 
 ## Melhorias futuras
 

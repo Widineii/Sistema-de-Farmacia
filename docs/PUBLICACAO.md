@@ -31,6 +31,10 @@ O projeto foi pensado para simular um ambiente real de operacao, com modulos de:
 
 Foi um projeto importante para consolidar regras de negocio, organizacao de interface desktop e experiencia de uso voltada para rotina real de farmacia.
 
+Link da demonstracao:
+
+- [Google Drive](https://drive.google.com/drive/folders/1aswfpxs0vLELtJH_ElSkmd0-CFVXBOnr?usp=drive_link)
+
 ## Texto curto para LinkedIn
 
 Projeto concluido: FarmaSys Pro

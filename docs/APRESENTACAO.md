@@ -97,6 +97,10 @@ Fale:
 
 Se quiser apresentar o projeto sem abrir o sistema ao vivo, use a gravacao completa da demonstracao.
 
+Link:
+
+- [Google Drive da demonstracao](https://drive.google.com/drive/folders/1aswfpxs0vLELtJH_ElSkmd0-CFVXBOnr?usp=drive_link)
+
 Ele pode ser usado como:
 
 - demonstracao principal no portfolio
